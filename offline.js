@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739271825,
+	"version": 1739273928,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,7 @@
 		"images/drakevskendrick-sheet0.png",
 		"images/singer-sheet0.png",
 		"images/singer-sheet1.png",
+		"images/singer-sheet2.png",
 		"images/kendrick2-sheet0.png",
 		"images/drake2-sheet0.png",
 		"images/thrower-sheet0.png",
